@@ -15,7 +15,7 @@
 
 ## Intro
 
-The idea of this project is to present the challenges proposed by the [Codewars](https://www.codewars.com/) website and my solutions in Python, C and SQL languages. Other languages can be improved as i learn.
+The idea of this project is to present the challenges proposed by the [Codewars](https://www.codewars.com/) website and my solutions in Python, C and SQL languages. Other languages can be added as i learn.
 
 ## Example
 
